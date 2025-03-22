@@ -1,22 +1,21 @@
-Calculadora Jetpack Compose
+# Calculadora Jetpack Compose
+
 Este projeto implementa uma calculadora simples usando Android Studio, Kotlin e Jetpack Compose, seguindo os requisitos da disciplina de Soluções Mobile da UNISATC.
-Funcionalidades
 
-Operações básicas: adição (+), subtração (-), multiplicação (×) e divisão (÷)
-Funcionalidade de limpar o display (AC)
-Inversão de sinal (+/-)
-Cálculo de porcentagem (%)
-Suporte a números decimais
-Interface visual moderna e intuitiva
+## Funcionalidades
 
-Screenshots
-Mostrar Imagem
-Tecnologias Utilizadas
+- Operações básicas: adição (+), subtração (-), multiplicação (×) e divisão (÷)
+- Funcionalidade de limpar o display (AC)
+- Inversão de sinal (+/-)
+- Cálculo de porcentagem (%)
+- Suporte a números decimais
+- Interface visual moderna e intuitiva
 
-Kotlin
-Jetpack Compose
-Material Design 3
-Android Studio
+## Tecnologias Utilizadas
 
-Estrutura do Projeto
-Este projeto utiliza uma abordagem simplificada com todo o código em um único arquivo MainActivity.kt:
+- Kotlin
+- Jetpack Compose
+- Material Design 3
+- Android Studio
+
+
