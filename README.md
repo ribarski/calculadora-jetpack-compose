@@ -19,3 +19,4 @@ Este projeto implementa uma calculadora simples usando Android Studio, Kotlin e 
 - Android Studio
 
 
+![image](https://github.com/user-attachments/assets/147cabb9-11f0-4f7e-9db6-8b85c50ec064)
